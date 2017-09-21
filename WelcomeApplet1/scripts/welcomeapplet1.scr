@@ -1,0 +1,10 @@
+//Test script for Applet 'WelcomeApplet1'
+
+powerup;
+// Select WelcomeApplet1 //aid/1246E4C35D/1A
+0x00 0xA4 0x04 0x00 0X06 0X12 0X46 0XE4 0XC3 0X5D 0X1B 0x7F;
+
+//Send the APDU here
+//0x80 0xCA 0x00 0x00 <length> <data> 0x7F;
+
+powerdown;

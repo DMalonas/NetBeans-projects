@@ -1,0 +1,11 @@
+
+package guitartester6;
+
+public class GuitarTester6 {
+
+
+    public static void main(String[] args) {
+
+    }
+    
+}
